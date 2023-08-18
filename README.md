@@ -1,2 +1,2 @@
 # youtube-dl
-A Youtube downloader with a tkinter GUI
+A Youtube video downloader 9mp4 only) with a tkinter GUI
