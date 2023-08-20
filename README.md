@@ -1,2 +1,2 @@
 # youtube-dl
-A Youtube video downloader 9mp4 only) with a tkinter GUI
+A Youtube video downloader for saving mp4 videos from YouTube, straight to your PC/desktop/laptop
